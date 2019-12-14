@@ -17,7 +17,7 @@ public class Rekurencja {
         if (n > 0) {
             return n + sumaRekurencja(n - 1);
         } else {
-            return 0;
+            return n;
         }
     }
 

@@ -8,8 +8,8 @@ public class Main {
         int iteracja = 0;
         int rekurencja = 0;
 
-        iteracja = r.sumaIteracja(6);
-        rekurencja = r.sumaRekurencja(6);
+        iteracja = r.sumaIteracja(5);
+        rekurencja = r.sumaRekurencja(5);
 
         System.out.println("Iteracja " + iteracja);
         System.out.println("Rekurencja " + rekurencja);

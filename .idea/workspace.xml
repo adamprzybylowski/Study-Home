@@ -14,13 +14,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UybrULIlt6sOI6i8s2L6bNVKMa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -110,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576331983434</updated>
-      <workItem from="1576332007602" duration="3857000" />
+      <workItem from="1576332007602" duration="4249000" />
     </task>
     <servers />
   </component>
@@ -118,22 +123,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1233" height="162" key="GridCell.Tab.0.bottom" timestamp="1576336402702">
+    <state width="1233" height="162" key="GridCell.Tab.0.bottom" timestamp="1576337121768">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1233" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576336402702" />
-    <state width="1233" height="162" key="GridCell.Tab.0.center" timestamp="1576336402701">
+    <state width="1233" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576337121768" />
+    <state width="1233" height="162" key="GridCell.Tab.0.center" timestamp="1576337121767">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1233" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1576336402701" />
-    <state width="1233" height="162" key="GridCell.Tab.0.left" timestamp="1576336402700">
+    <state width="1233" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1576337121767" />
+    <state width="1233" height="162" key="GridCell.Tab.0.left" timestamp="1576337121753">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1233" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1576336402700" />
-    <state width="1233" height="162" key="GridCell.Tab.0.right" timestamp="1576336402702">
+    <state width="1233" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1576337121753" />
+    <state width="1233" height="162" key="GridCell.Tab.0.right" timestamp="1576337121767">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1233" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1576336402702" />
+    <state width="1233" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1576337121767" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576332007919">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
