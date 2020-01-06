@@ -9,6 +9,7 @@ public class Lambda1 {
 
         List<String> names = new ArrayList<>();
 
+        names.add("Genowefaa");
         names.add("Dorota");
         names.add("Jacek");
         names.add("Kasia");
@@ -17,13 +18,28 @@ public class Lambda1 {
         names.add("Damian");
         names.add("Jarosław");
 
-        names.sort(new Comparator<String>() {
+     /*   names.sort(new Comparator<String>() {
             @Override
-            public int compare(String o1, String o2) {
-                return Integer.compare(o1.length(), o2.length());
+            public int compare(String o1, String o2) {  // klasa anonimowa z jedna instancja
+                return 0;
             }
+        });
+
+        names.
+
+*/
+
+
+        ///  names.sort((o1, o2) -> Integer.compare(o1.length(), o2.length()));   -shorter but then we cant use things ike sout in it
+
+        //  names.sort(Comparator.comparingInt(String::length)); even shorter but using reference
+
+        names.sort((o1, o2) -> {
+            System.out.println(o1 + " " +  o2 +  " compare them");  // or we can use other operations
+                return Integer.compare(o1.length(), o2.length());
         });
 
         System.out.println(names);
     }
 }
+
