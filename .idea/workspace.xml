@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c129027-d9ab-4a66-bce8-99aa00be37bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lambda1b/Lambda1b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda1b/Modyfi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lambda/Lambda1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/Lambda1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -40,13 +42,26 @@
       <command value="Comparator" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lambda1">
+  <component name="RunManager" selected="Application.Lambda1b">
     <configuration name="Lambda1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lambda.Lambda1" />
       <module name="Recursion" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda1b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda1b.Lambda1b" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda1b.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lambda1b" />
         <item itemvalue="Application.Lambda1" />
         <item itemvalue="Application.Main" />
       </list>
@@ -95,37 +111,53 @@
       <updated>1576331983434</updated>
       <workItem from="1576332007602" duration="4249000" />
       <workItem from="1578326534475" duration="3855000" />
+      <workItem from="1578426107046" duration="4181000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1578329839680">
+    <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1578432787139">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
-    <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578329839680" />
-    <state width="1807" height="318" key="GridCell.Tab.0.bottom" timestamp="1578330290072">
+    <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578432787139" />
+    <state x="167" y="224" width="1643" height="679" key="DiffContextDialog" timestamp="1578426264652">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="167" y="224" width="1643" height="679" key="DiffContextDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578426264652" />
+    <state width="1797" height="220" key="GridCell.Tab.0.bottom" timestamp="1578433366758">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state width="1233" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576337121768" />
-    <state width="1807" height="318" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1578330290072" />
-    <state width="1807" height="318" key="GridCell.Tab.0.center" timestamp="1578330290071">
+    <state width="1797" height="220" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1578433366758" />
+    <state width="1797" height="220" key="GridCell.Tab.0.center" timestamp="1578433366757">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state width="1233" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1576337121767" />
-    <state width="1807" height="318" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1578330290071" />
-    <state width="1807" height="318" key="GridCell.Tab.0.left" timestamp="1578330290070">
+    <state width="1797" height="220" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1578433366757" />
+    <state width="1797" height="220" key="GridCell.Tab.0.left" timestamp="1578433366756">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state width="1233" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1576337121753" />
-    <state width="1807" height="318" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1578330290070" />
-    <state width="1807" height="318" key="GridCell.Tab.0.right" timestamp="1578330290072">
+    <state width="1797" height="220" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1578433366756" />
+    <state width="1797" height="220" key="GridCell.Tab.0.right" timestamp="1578433366758">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state width="1233" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1576337121767" />
-    <state width="1807" height="318" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1578330290072" />
+    <state width="1797" height="220" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1578433366758" />
     <state x="482" y="247" key="SettingsEditor" timestamp="1578329905381">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
