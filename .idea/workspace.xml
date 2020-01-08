@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c129027-d9ab-4a66-bce8-99aa00be37bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lambda1b/Lambda1b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda1b/Modyfi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda1b/Lambda1b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda1b/Lambda1b.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,9 @@
       <updated>1576331983434</updated>
       <workItem from="1576332007602" duration="4249000" />
       <workItem from="1578326534475" duration="3855000" />
-      <workItem from="1578426107046" duration="4181000" />
+      <workItem from="1578426107046" duration="4420000" />
+      <workItem from="1578433608193" duration="13000" />
+      <workItem from="1578512199286" duration="272000" />
     </task>
     <servers />
   </component>
@@ -123,41 +124,43 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1578432787139">
+    <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1578433603499">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
-    <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578432787139" />
+    <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578433603499" />
     <state x="167" y="224" width="1643" height="679" key="DiffContextDialog" timestamp="1578426264652">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state x="167" y="224" width="1643" height="679" key="DiffContextDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578426264652" />
-    <state width="1797" height="220" key="GridCell.Tab.0.bottom" timestamp="1578433366758">
+    <state width="1807" height="317" key="GridCell.Tab.0.bottom" timestamp="1578512473638">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state width="1233" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576337121768" />
-    <state width="1797" height="220" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1578433366758" />
-    <state width="1797" height="220" key="GridCell.Tab.0.center" timestamp="1578433366757">
+    <state width="1807" height="317" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1578512473638" />
+    <state width="1807" height="317" key="GridCell.Tab.0.center" timestamp="1578512473634">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state width="1233" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1576337121767" />
-    <state width="1797" height="220" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1578433366757" />
-    <state width="1797" height="220" key="GridCell.Tab.0.left" timestamp="1578433366756">
+    <state width="1807" height="317" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1578512473634" />
+    <state width="1807" height="317" key="GridCell.Tab.0.left" timestamp="1578512473631">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state width="1233" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1576337121753" />
-    <state width="1797" height="220" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1578433366756" />
-    <state width="1797" height="220" key="GridCell.Tab.0.right" timestamp="1578433366758">
+    <state width="1807" height="317" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1578512473631" />
+    <state width="1807" height="317" key="GridCell.Tab.0.right" timestamp="1578512473636">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state width="1233" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1576337121767" />
-    <state width="1797" height="220" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1578433366758" />
+    <state width="1807" height="317" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1578512473636" />
     <state x="482" y="247" key="SettingsEditor" timestamp="1578329905381">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
@@ -170,9 +173,9 @@
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state x="657" y="283" key="run.anything.popup/67.27.1853.1173@67.27.1853.1173" timestamp="1578329806978" />
-    <state x="656" y="287" width="672" height="678" key="search.everywhere.popup" timestamp="1578329901909">
+    <state x="656" y="287" width="672" height="678" key="search.everywhere.popup" timestamp="1578512264083">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
-    <state x="656" y="287" width="672" height="678" key="search.everywhere.popup/67.27.1853.1173@67.27.1853.1173" timestamp="1578329901909" />
+    <state x="656" y="287" width="672" height="678" key="search.everywhere.popup/67.27.1853.1173@67.27.1853.1173" timestamp="1578512264083" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package Lambda1b;
 
-public interface Modyfi {
+public interface Modifier {
 
     String modyfi(String s);
 }
